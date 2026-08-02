@@ -1,6 +1,6 @@
 // hindi.js – Hindi Torah text
 // Host this on GitHub and load it from your HTML
-
+ 
 window.TORAH = window.TORAH || {};   // keep any existing TORAH object
 window.TORAH.hindi = `
 
