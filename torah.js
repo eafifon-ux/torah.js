@@ -1,8 +1,9 @@
 // torah.js – English Torah text
 // Host this on GitHub and load it from your HTML
 
-const TORAH = {
+window.TORAH = {
   english: `
+
 
 Genesis 1
 [1]In the beginning God created the heaven and the earth.
