@@ -1,7 +1,7 @@
 // mod.js – Modern Hebrew Torah text
 window.TORAH = window.TORAH || {};
 
-window.TORAH.modern_hebrew = `
+window.ancient.modern_hebrew = `
 
 Genesis 1
 
