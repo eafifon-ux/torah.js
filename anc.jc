@@ -1,4 +1,4 @@
-// mod.js – Modern Hebrew Torah text
+// anc.js – Ancient Hebrew Torah text
 window.TORAH = window.TORAH || {};
 
 window.ancient.modern_hebrew = `
